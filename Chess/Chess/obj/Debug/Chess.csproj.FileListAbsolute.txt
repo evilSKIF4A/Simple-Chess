@@ -1,0 +1,39 @@
+E:\Основы программирования\Курсовая №1\Chess\Chess\bin\Debug\Chess.exe.config
+E:\Основы программирования\Курсовая №1\Chess\Chess\bin\Debug\Chess.exe
+E:\Основы программирования\Курсовая №1\Chess\Chess\bin\Debug\Chess.pdb
+E:\Основы программирования\Курсовая №1\Chess\Chess\obj\Debug\Chess.csprojAssemblyReference.cache
+E:\Основы программирования\Курсовая №1\Chess\Chess\obj\Debug\Chess.Form1.resources
+E:\Основы программирования\Курсовая №1\Chess\Chess\obj\Debug\Chess.Properties.Resources.resources
+E:\Основы программирования\Курсовая №1\Chess\Chess\obj\Debug\Chess.csproj.GenerateResource.cache
+E:\Основы программирования\Курсовая №1\Chess\Chess\obj\Debug\Chess.csproj.CoreCompileInputs.cache
+E:\Основы программирования\Курсовая №1\Chess\Chess\obj\Debug\Chess.exe
+E:\Основы программирования\Курсовая №1\Chess\Chess\obj\Debug\Chess.pdb
+D:\Основы программирования\Курсовая №1\Chess\Chess\bin\Debug\Chess.exe.config
+D:\Основы программирования\Курсовая №1\Chess\Chess\bin\Debug\Chess.exe
+D:\Основы программирования\Курсовая №1\Chess\Chess\bin\Debug\Chess.pdb
+D:\Основы программирования\Курсовая №1\Chess\Chess\obj\Debug\Chess.csprojAssemblyReference.cache
+D:\Основы программирования\Курсовая №1\Chess\Chess\obj\Debug\Chess.Form1.resources
+D:\Основы программирования\Курсовая №1\Chess\Chess\obj\Debug\Chess.Properties.Resources.resources
+D:\Основы программирования\Курсовая №1\Chess\Chess\obj\Debug\Chess.csproj.GenerateResource.cache
+D:\Основы программирования\Курсовая №1\Chess\Chess\obj\Debug\Chess.csproj.CoreCompileInputs.cache
+D:\Основы программирования\Курсовая №1\Chess\Chess\obj\Debug\Chess.exe
+D:\Основы программирования\Курсовая №1\Chess\Chess\obj\Debug\Chess.pdb
+F:\Основы программирования\Курсовая №1\Chess\Chess\bin\Debug\Chess.exe.config
+F:\Основы программирования\Курсовая №1\Chess\Chess\bin\Debug\Chess.exe
+F:\Основы программирования\Курсовая №1\Chess\Chess\bin\Debug\Chess.pdb
+F:\Основы программирования\Курсовая №1\Chess\Chess\obj\Debug\Chess.csprojAssemblyReference.cache
+F:\Основы программирования\Курсовая №1\Chess\Chess\obj\Debug\Chess.Form1.resources
+F:\Основы программирования\Курсовая №1\Chess\Chess\obj\Debug\Chess.Properties.Resources.resources
+F:\Основы программирования\Курсовая №1\Chess\Chess\obj\Debug\Chess.csproj.GenerateResource.cache
+F:\Основы программирования\Курсовая №1\Chess\Chess\obj\Debug\Chess.csproj.CoreCompileInputs.cache
+F:\Основы программирования\Курсовая №1\Chess\Chess\obj\Debug\Chess.exe
+F:\Основы программирования\Курсовая №1\Chess\Chess\obj\Debug\Chess.pdb
+E:\Первый курс\Основы программирования\Курсовая №1\Chess\Chess\bin\Debug\Chess.exe.config
+E:\Первый курс\Основы программирования\Курсовая №1\Chess\Chess\bin\Debug\Chess.exe
+E:\Первый курс\Основы программирования\Курсовая №1\Chess\Chess\obj\Debug\Chess.csproj.AssemblyReference.cache
+E:\Первый курс\Основы программирования\Курсовая №1\Chess\Chess\obj\Debug\Chess.Form1.resources
+E:\Первый курс\Основы программирования\Курсовая №1\Chess\Chess\obj\Debug\Chess.Properties.Resources.resources
+E:\Первый курс\Основы программирования\Курсовая №1\Chess\Chess\obj\Debug\Chess.csproj.GenerateResource.cache
+E:\Первый курс\Основы программирования\Курсовая №1\Chess\Chess\obj\Debug\Chess.csproj.CoreCompileInputs.cache
+E:\Первый курс\Основы программирования\Курсовая №1\Chess\Chess\obj\Debug\Chess.exe
+E:\Первый курс\Основы программирования\Курсовая №1\Chess\Chess\obj\Debug\Chess.pdb
