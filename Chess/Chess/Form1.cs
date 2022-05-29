@@ -23,7 +23,6 @@ namespace Chess
         {
             InitializeComponent();
             // загрузка спрайтов
-            // @"E:\\Основы программирования\\Курсовая №1\\Sprites\\chess.png"
             Sprite = new Bitmap(@"Sprites\\chess.png");
             Image figure = new Bitmap(50, 50);
             Graphics gr = Graphics.FromImage(figure);
@@ -132,7 +131,6 @@ namespace Chess
         public Button Fig;
         public void PressFigure(object sender, EventArgs e)
         {
-            // RestartCell(); 
             Button Fig = sender as Button;
             Load_Image_Button_Switch(map[Fig.Location.Y / 50, Fig.Location.X / 50]);
             if (map[Fig.Location.Y / 50, Fig.Location.X / 50] != 0 && map[Fig.Location.Y / 50, Fig.Location.X / 50] / 10 == Player)
@@ -181,7 +179,7 @@ namespace Chess
 
         public void Steps(int X, int Y, int Figure)
         {
-            // используется для показа шагов для пешки. Смотря еще какой цвет фигуры
+            // используется для показа шагов пешки. Смотря еще какой цвет фигуры
             int ss;
             if (Player == 1)
             {
